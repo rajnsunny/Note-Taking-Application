@@ -49,10 +49,6 @@ This project is a secure and scalable RESTful API that allows users to manage no
    npm test
    ```
 
-2. **Run Integration Tests:**
-   ```bash
-   npm run test:integration
-   ```
 
 ## API Endpoints
 
